@@ -1,0 +1,28 @@
+{
+  "filmSourceApp": {
+    "filmSource": {
+      "home": {
+        "title": "Film Sources",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Film Source",
+        "createOrEditLabel": "Create or edit a Film Source",
+        "notFound": "No Film Sources found"
+      },
+      "created": "A new Film Source is created with identifier {{ param }}",
+      "updated": "A Film Source is updated with identifier {{ param }}",
+      "deleted": "A Film Source is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Film Source {{ id }}?"
+      },
+      "detail": {
+        "title": "Film Source"
+      },
+      "id": "ID",
+      "lastname": "Lastname",
+      "firstname": "Firstname",
+      "position": "Position",
+      "location": "Location",
+      "rate": "Rate"
+    }
+  }
+}

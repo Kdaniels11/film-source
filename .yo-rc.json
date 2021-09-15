@@ -43,7 +43,9 @@
     "devServerPort": 9060,
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["FilmSource"],
+    "lastLiquibaseTimestamp": 1631677529000
   },
   "git-provider": "GitHub",
   "git-company": "scottvin",
