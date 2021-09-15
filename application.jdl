@@ -1,0 +1,8 @@
+entity FilmSource {
+	lastname String
+	firstname String
+	position String
+	location String
+	rate Long
+}
+
